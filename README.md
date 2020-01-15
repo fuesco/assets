@@ -1,3 +1,3 @@
 # assets
 
-Official JetLagLab resources :cloud:
+Official JetLagLabs resources :cloud:
