@@ -1,6 +1,6 @@
 # assets
 
-Fues resources served by the GitHub CDN.
+Fues Co. GitHub static assets.
 
 To use an object:
 
