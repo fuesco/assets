@@ -1,9 +1,9 @@
 # assets
 
-Fues Co. GitHub static assets.
+Common resources for organization hosted by GitHub CDN.
 
-To use an object:
+To access an object, simply run:
 
 ```
-https://fuesco.github.io/assets/PATH/TO/OBJ
+curl -iX GET https://static.fues.us/assets/PATH/TO/OBJ
 ```
