@@ -1,6 +1,6 @@
 # assets
 
-![@fuesorg/assets](https://github.com/fuesorg/assets/workflows/CI/badge.svg
+![@fuesorg/assets](https://github.com/fuesorg/assets/workflows/CI/badge.svg)
 
 Common resources for organization hosted by GitHub CDN.
 
