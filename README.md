@@ -1,6 +1,6 @@
 # assets
 
-![@fuesorg/assets](https://github.com/fuesorg/assets/workflows/CI/badge.svg)
+[![@fuesorg/assets](https://api.netlify.com/api/v1/badges/55454f3e-3806-47c1-b2d0-d67f6815897d/deploy-status)](https://app.netlify.com/sites/kind-minsky-48db2b/deploys)
 
 Common resources for Fues organization using Netlify Hosting, Git LFS, and Netlify Large Media.
 
