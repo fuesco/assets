@@ -10,6 +10,9 @@ To access an object, simply use:
 curl -iX GET https://cdn.fues.us/PATH/TO/OBJ/IN/DIST.ext
 ```
 
-*Example #1*
+*Example*
 
-<img src="https://cdn.fues.us/fuesorg/f-sharp-light.svg" alt="fues logo"  height="128px" />
+<video autoplay loop>
+  <source src="https://cdn.fues.us/mp4/mavfarm-header-fullhd.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
